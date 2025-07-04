@@ -1,0 +1,92 @@
+@media only screen and (min-width: 991px) {
+
+  .card-custom-img{
+    height: 250px;
+}
+
+  .post-header{
+    min-height: 600px;
+}
+    
+.main-btn{
+  font-size: 1.7rem;
+}
+.navbar {
+    height: 85px;
+}
+.text-in-h1{
+  font-size: 1.4rem; 
+  top: -10px;display: 
+  inline-block;
+  position: relative;
+}
+
+.img-primary{
+  width: 90%;
+}
+
+.logo_in_card{
+  width: 150px;
+}
+
+.margin-nav{
+  top:15px !important;
+  position: relative;
+
+}
+
+.bgprimary1{
+    padding-bottom: 27px;
+}
+
+.offcanvas-custom-height{
+  height: 300px !important;
+}
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 600px){
+
+  .svg-main-page{
+  width:100%;
+  margin-left: 0;
+}
+      
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
